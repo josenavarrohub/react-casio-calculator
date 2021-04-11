@@ -1,0 +1,31 @@
+/* Buttons */
+.c-button {
+    background: #939ab4;
+    border-bottom-left-radius: .8em;
+    border-bottom-right-radius: .8em;
+    border-top-left-radius: .6em;
+    border-top-right-radius: .6em;
+    border: 2px solid #4d5368;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.2em;
+    height: 40px;
+    margin: 6px 2px;
+    outline: none;
+    transition: all 300ms;
+    width: 58px;
+}
+
+@media (max-device-width : 667px) {
+    .c-button {
+        font-size: 0.7em;
+    }
+}
+  
+.c-button:hover {
+    background: #7d85a0;
+}
+
+.c-button:active {
+    background: #757d99;
+}

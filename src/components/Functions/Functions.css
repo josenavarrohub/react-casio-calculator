@@ -1,0 +1,18 @@
+/* Functions */
+.c-functions {
+    float: right;
+    margin-right: 8px;
+    width: 124px;
+}
+
+.c-functions .c-button {
+    background: #c86e78;
+}
+
+.c-functions .c-button:hover {
+    background: #b45f69;
+}
+
+.c-functions .c-button:active {
+    background: #a5535c;
+}

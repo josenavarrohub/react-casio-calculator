@@ -1,0 +1,10 @@
+/* Operations */
+.c-operations {
+    float: right;
+    margin-right: 8px;
+    width: 124px;
+}
+
+.c-operations .c-button:last-child {
+    width: calc(100% - 3px);
+}

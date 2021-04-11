@@ -1,0 +1,27 @@
+/* Logo */
+.c-logo__brand {
+    color: #acb4c1;
+    float: left;
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.4em;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.c-logo__model {
+    color: #acb4c1;
+    float: right;
+    font-size: 1em;
+    font-style: italic;
+    margin-right: 25px;
+    margin-top: 20px;
+}
+
+.c-logo__tag {
+    clear: both;
+    color:#d1616e;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.3em;
+    padding-top: 30px;
+    text-align: center;
+}

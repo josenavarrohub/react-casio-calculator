@@ -1,0 +1,10 @@
+/* Numbers */
+.c-numbers {
+    float: left;
+    margin-left: 10px;
+    width: 186px;
+}
+
+.c-numbers .c-button:last-child {
+    width: calc(100% - 3px);
+}

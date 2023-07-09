@@ -1,4 +1,4 @@
-# React Casio Calculator
+# 🧮 React Casio Calculator
 
 A basic Casio calculator developed with React (it uses hooks).
 
